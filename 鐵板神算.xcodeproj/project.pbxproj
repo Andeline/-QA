@@ -13,6 +13,7 @@
 		5757EC6926527DE60090E18D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5757EC6726527DE60090E18D /* Main.storyboard */; };
 		5757EC6B26527DEB0090E18D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5757EC6A26527DEB0090E18D /* Assets.xcassets */; };
 		5757EC6E26527DEB0090E18D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5757EC6C26527DEB0090E18D /* LaunchScreen.storyboard */; };
+		576652E226569F3600282207 /* TaipeiSansTCBeta-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 576652E126569F3600282207 /* TaipeiSansTCBeta-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5757EC6A26527DEB0090E18D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5757EC6D26527DEB0090E18D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5757EC6F26527DEB0090E18D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		576652E126569F3600282207 /* TaipeiSansTCBeta-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TaipeiSansTCBeta-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		5757EC6026527DE60090E18D /* 鐵板神算 */ = {
 			isa = PBXGroup;
 			children = (
+				576652E126569F3600282207 /* TaipeiSansTCBeta-Regular.ttf */,
 				5757EC6126527DE60090E18D /* AppDelegate.swift */,
 				5757EC6326527DE60090E18D /* SceneDelegate.swift */,
 				5757EC6526527DE60090E18D /* ViewController.swift */,
@@ -127,6 +130,7 @@
 				5757EC6E26527DEB0090E18D /* LaunchScreen.storyboard in Resources */,
 				5757EC6B26527DEB0090E18D /* Assets.xcassets in Resources */,
 				5757EC6926527DE60090E18D /* Main.storyboard in Resources */,
+				576652E226569F3600282207 /* TaipeiSansTCBeta-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
